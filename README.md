@@ -41,4 +41,14 @@ Enter the url after this mirror:
 <img src="for_candy_cookies.php">
 
 
-<img src="colours_placed_to_normal.png">
+<img src="adding_space.png"><img src="adding_space.png"><img src="adding_space.png"><img src="adding_space.png">
+<img src="adding_space.png"><img src="adding_space.png">
+<img src="adding_space.png"><img src="adding_space.png"><img src="adding_space.png"><img src="adding_space.png">
+<img src="adding_space.png"><img src="adding_space.png"><img src="adding_space.png"><img src="adding_space.png">
+<img src="adding_space.png"><img src="adding_space.png"><img src="adding_space.png"><img src="adding_space.png">
+<img src="adding_space.png"><img src="adding_space.png">
+<img src="adding_space.png"><img src="adding_space.png">
+<img src="adding_space.png"><img src="adding_space.png">
+<img src="adding_space.png"><img src="adding_space.png"><img src="adding_space.png"><img src="adding_space.png">
+<img src="adding_space.png"><img src="adding_space.png"><img src="adding_space.png"><img src="adding_space.png">
+<img src="adding_space.png"><img src="adding_space.png"><img src="adding_space.png"><img src="adding_space.png">
