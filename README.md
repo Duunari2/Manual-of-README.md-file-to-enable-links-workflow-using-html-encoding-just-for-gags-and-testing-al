@@ -43,12 +43,3 @@ Enter the url after this mirror:
 
 <img src="adding_space.png"><img src="adding_space.png"><img src="adding_space.png"><img src="adding_space.png">
 <img src="adding_space.png"><img src="adding_space.png">
-<img src="adding_space.png"><img src="adding_space.png"><img src="adding_space.png"><img src="adding_space.png">
-<img src="adding_space.png"><img src="adding_space.png"><img src="adding_space.png"><img src="adding_space.png">
-<img src="adding_space.png"><img src="adding_space.png"><img src="adding_space.png"><img src="adding_space.png">
-<img src="adding_space.png"><img src="adding_space.png">
-<img src="adding_space.png"><img src="adding_space.png">
-<img src="adding_space.png"><img src="adding_space.png">
-<img src="adding_space.png"><img src="adding_space.png"><img src="adding_space.png"><img src="adding_space.png">
-<img src="adding_space.png"><img src="adding_space.png"><img src="adding_space.png"><img src="adding_space.png">
-<img src="adding_space.png"><img src="adding_space.png"><img src="adding_space.png"><img src="adding_space.png">
