@@ -26,3 +26,6 @@ Enter the url after this mirror:
 <img src="editing_while.png">
 
 <img src="for_candy_cookies.php">
+
+
+<img src="colours_placed_to_normal.png">
