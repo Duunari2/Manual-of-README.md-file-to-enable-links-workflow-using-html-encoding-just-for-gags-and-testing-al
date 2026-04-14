@@ -1,10 +1,17 @@
 # Manual-of-README.md-file-to-enable-links-workflow-using-html-encoding-just-for-gags-and-testing-al
 README.md
 
+Before the picture i add the normal link which is:
+
+https://datat.freehostia.com/defaultpage/nginx_default_page_modded.html
+
+https://datat.freehostia.com/defaultpage/nginx_default_page_modded.html
+
+https://datat.freehostia.com/defaultpage/nginx_default_page_modded.html
 
 <img src="colours_placed_to_normal.png">
 
-Adding here something else that lorem ipsum had to has the mission elsewhere. Picture base64 encoded metadata is: 2349832847238947234978329479
+Adding here something else that lorem ipsum had to has the mission elsewhere. Picture base64 encoded metadata is: set_me_default_page_to..
 
 https://datat.freehostia.com/ddossaus/
 
@@ -19,6 +26,7 @@ http://searchengine.dy.fi/
 
 https://datat.freehostia.com/defaultpage/
 
+<img src="the_new_release.png">
 
 Mission impossible.
 
